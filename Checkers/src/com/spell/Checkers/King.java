@@ -1,4 +1,4 @@
-package it.univr.Dama;
+package com.spell.Checkers;
 
 import java.awt.Color;
 import java.awt.Graphics;

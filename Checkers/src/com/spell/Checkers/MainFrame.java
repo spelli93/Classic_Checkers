@@ -1,4 +1,4 @@
-package it.univr.Dama;
+package com.spell.Checkers;
 
 import java.applet.Applet;
 import java.awt.Dimension;

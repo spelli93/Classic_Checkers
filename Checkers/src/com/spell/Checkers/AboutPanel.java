@@ -1,4 +1,4 @@
-package it.univr.Dama;
+package com.spell.Checkers;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
